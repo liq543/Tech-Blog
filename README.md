@@ -24,7 +24,7 @@ Navigate to [Tech Blog](https://tech-blog-9124-7c3075b1b8f4.herokuapp.com/) to e
 
 ## License
 
-(Insert License Information Here)
+MIT License
 
 ## Questions
 
