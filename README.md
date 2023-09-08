@@ -18,7 +18,7 @@ For enhanced security and user experience, it integrates packages such as `expre
 
 ## Usage
 
-Navigate to [Tech Blog]((https://tech-blog-9124-7c3075b1b8f4.herokuapp.com/) to experience the platform.
+Navigate to [Tech Blog](https://tech-blog-9124-7c3075b1b8f4.herokuapp.com/) to experience the platform.
 
 ![Screenshot of Tech Blog](https://i.imgur.com/YAVOqe4.png)
 
