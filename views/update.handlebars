@@ -1,0 +1,21 @@
+<div class="container-fluid">
+    <div class="row card shadow p-3 mb-2 bg-body rounded">
+        <div class="card-header pt-2 px-3 mb-2 rounded">
+            <h3>Update or Delete Post</h3>
+        </div>
+            <form id="update-post">
+                <div class="mb-3">
+                    <label for="update-post-title" class="form-label">Title</label>
+                    <input type="text" class="form-control" id="update-post-title" value="{{title}}" >
+                </div>
+                <div class="mb-3">
+                    <label for="update-post-context" class="form-label">Post Context</label>
+                    <textarea class="form-control" id="update-post-context" rows="3">{{text}}</textarea>
+                </div>
+                <button type="submit" class="btn btn-primary" id="update-post">Submit Update</button>
+                <button type="click" class="btn btn-primary" id="delete-post" data-id="{{id}}">Delete</button>
+            </form>
+    </div>
+</div>
+
+<script src="/js/edit.js"></script>
