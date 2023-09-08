@@ -18,9 +18,9 @@ For enhanced security and user experience, it integrates packages such as `expre
 
 ## Usage
 
-Navigate to [Tech Blog](YOUR_LINK_HERE) to experience the platform.
+Navigate to [Tech Blog]((https://tech-blog-9124-7c3075b1b8f4.herokuapp.com/) to experience the platform.
 
-![Screenshot of Tech Blog](YOUR_IMAGE_LINK_HERE)
+![Screenshot of Tech Blog](https://i.imgur.com/YAVOqe4.png)
 
 ## License
 
@@ -29,5 +29,4 @@ Navigate to [Tech Blog](YOUR_LINK_HERE) to experience the platform.
 ## Questions
 
 For any inquiries or feedback, please contact:
-- **Email**: YOUR_EMAIL_HERE
-- **GitHub**: [Your GitHub Profile Here](YOUR_GITHUB_LINK_HERE)
+- **GitHub**: [liq543](https://github.com/liq543/)
